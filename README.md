@@ -23,6 +23,8 @@ App keeps track of real time covid-19 affected, dead and recovered cases. Respon
 * Screen 1
 ![image](https://user-images.githubusercontent.com/45028951/115955151-9ef85000-a512-11eb-8d14-dc79b84af99f.png)
 * Screen 2
+![image](https://user-images.githubusercontent.com/45028951/115955338-79b81180-a513-11eb-8808-a90efea15843.png)
+* Screen 3
 ![image](https://user-images.githubusercontent.com/45028951/115955202-cc44fe00-a512-11eb-8b18-8805dee7b742.png)
 * Screen 3
 ![image](https://user-images.githubusercontent.com/45028951/115955221-e979cc80-a512-11eb-8b44-8c99c7bf45e3.png)
