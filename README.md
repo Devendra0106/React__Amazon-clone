@@ -1,5 +1,5 @@
 # `Amazon Clone`
-App keeps track of real time covid-19 affected, dead and recovered cases. Responsive application developed using React.js, flex-box, Material UI and firebase.
+Clone of Amazon website developed using React.js, styled components and firebase Firestore Database.
 
 ## `Live Demo`
 ### App deplyed on firebase
